@@ -2,8 +2,8 @@ Praktikum Minggu 1 (Instalasi Git)
 1. Setelah download Git, double click pada file yang di-download. Akan dimunculkan lisensi. Klik Next untuk lanjut.
    <img width="795" height="619" alt="Cuplikan layar 2026-03-16 214358" src="https://github.com/user-attachments/assets/497863e2-5249-43e8-9450-3588fa52fef4" />
 
-2. Setelah itu, pilih lokasi instalasi. Secara default akan terisi C:\Program Files\Git. Ganti lokasi jika memang anda menginginkan lokasi lain, klik Next
-   <img width="795" height="614" alt="Cuplikan layar 2026-03-16 214409" src="https://github.com/user-attachments/assets/3557bbd7-c7b1-4dc2-8edc-77b995bbb4df" />
+2. Setelah itu, pilih lokasi instalasi. Secara default akan terisi C:\Program Files\Git. Ganti lokasi jika memang anda menginginkan lokasi lain, klik Next.
+   <img width="795" height="614" alt="Cuplikan layar 2026-03-16 214409" src="https://github.com/user-attachments/assets/4743c22a-ad21-44a2-9122-5e0a429aad13" />
 
 3. Pilih komponen. Tidak perlu diubah-ubah, sesuai dengan default saja. Klik pada Next.
    <img width="798" height="614" alt="Cuplikan layar 2026-03-16 214419" src="https://github.com/user-attachments/assets/261a0bc4-7796-4c1c-bc77-9482ba58996e" />
